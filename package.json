@@ -69,7 +69,8 @@
         "uglify-js": "3.6.9",
         "when": "3.7.8",
         "ws": "6.2.1",
-        "xml2js": "0.4.22"
+        "xml2js": "0.4.22",
+        "x-ray": "^2.3.4"
     },
     "optionalDependencies": {
         "bcrypt": "3.0.6"
